@@ -1,5 +1,29 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
-  "current": "Default",
+  "current": {
+    "0": "D",
+    "1": "e",
+    "2": "f",
+    "3": "a",
+    "4": "u",
+    "5": "l",
+    "6": "t",
+    "blocks": {
+      "3194185527732688780": {
+        "type": "shopify://apps/nector-loyalty-rewards/blocks/floating_widget/1c1144ea-67f0-4232-93c6-0d8fbb8c8d3a",
+        "disabled": false,
+        "settings": {}
+      }
+    }
+  },
   "presets": {
     "Default": {
       "logo_width": 90,
@@ -179,11 +203,15 @@
       "sections": {
         "main-password-header": {
           "type": "main-password-header",
-          "settings": { "color_scheme": "scheme-1" }
+          "settings": {
+            "color_scheme": "scheme-1"
+          }
         },
         "main-password-footer": {
           "type": "main-password-footer",
-          "settings": { "color_scheme": "scheme-1" }
+          "settings": {
+            "color_scheme": "scheme-1"
+          }
         }
       }
     }
